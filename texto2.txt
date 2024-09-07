@@ -1,0 +1,15 @@
+Los más utilizados son los multirrotor cuadricóptero, el cual su tiempo de vuelo promedio de 30 minutos y cobertura por vuelo cercana a las 65 
+hectáreas y el de ala fija que tiene un tiempo de vuelo de 30 a 90 minutos y una cobertura por vuelo de 120 a 3800 hectáreas).
+Hay cámaras utilizadas en los drones para captar la información mediante las bandas del espectro electromagnético y realizar las estimaciones 
+por medio del NDVI (Índice de Vegetación de Diferencia Normalizada).
+Para analizar las imágenes o para procesar los datos obtenidos de ellas existen algunas herramientas las cuales son: Pix4D, PhotoScan, Metachape,
+Photomodeler, VisualSfM, Blunder, Apero, Insight3D, WebODM.
+La información presentada anteriormente nos menciona algunos tipos de VANTS, cámaras, herramientas para analizar imágenes, así como también nos 
+describe su funcionamiento.
+Nos sirve primeramente para ponernos un poco en contexto de algunos de los componentes que debe de incluir el VANT.
+Nos da una definición de los componentes o en si los tipos de drones, los cuales analizando sus características podemos obtener los óptimos para 
+su implementación, cuáles son los más convenientes con respecto al uso que le queremos dar, dependiendo al funcionamiento que queremos que tenga 
+podremos escoger los componentes del listado que se menciona.
+La forma en que maneja el problema es que existen distintas condiciones que limitan la productividad, y la incidencia del cambio climático, las 
+plagas y enfermedades, los costos de producción, la mano de obra, el uso indiscriminado de los recursos, suelo y agua, etc. Y es por eso por lo 
+que se busca una alternativa para mejorar los procesos productivos y contribuir a reducir los efectos de la agricultura tradicional.
